@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node type="slave2" name="slave2" id="120" nodes="6">
+	<server ip="127.0.0.1" port="25000"/>	
+</node>
