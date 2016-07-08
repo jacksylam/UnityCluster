@@ -1,0 +1,1 @@
+start "Master" %~dp0testbuild.exe node-config-master.xml
